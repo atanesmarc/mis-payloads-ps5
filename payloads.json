@@ -1,0 +1,38 @@
+[
+  {
+    "name": "BlackBox",
+    "filename": "blackbox.elf",
+    "url": "https://github.com/BlackBoxPS5/blackbox/releases/download/v1.0.5/blackbox.elf",
+    "source": "https://github.com/BlackBoxPS5/blackbox/releases",
+    "source_direct": "https://github.com/BlackBoxPS5/blackbox/releases/download/v1.0.5/blackbox.elf",
+    "description": "Homebrew Store amb gestor de descàrregues integrat per a PS5 jailbroken.",
+    "last_update": "2026-10-07",
+    "version": "v1.0.5",
+    "category": "Utilidades y Herramientas",
+    "checksum": "152dda87ec64899270db61c61676b62e5d29a46a67523299b2719a81d4486235"
+  },
+  {
+    "name": "Orbit Store",
+    "filename": "orbit_store.elf",
+    "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v0.9.0/orbit_store.elf",
+    "source": "https://github.com/saawant12/orbit-store-ps5/releases",
+    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v0.9.0/orbit_store.elf",
+    "description": "Catàleg i gestor de descàrregues de jocs per a PS5 (705 jocs, suport FPKG i exFAT).",
+    "last_update": "2026-10-07",
+    "version": "v0.9.0",
+    "category": "Utilidades y Herramientas",
+    "checksum": "aeef769d81507157837a017886a72c169ee7acb472e7c029a1d5e830735762df"
+  },
+  {
+    "name": "PS5 Library",
+    "filename": "ps5-library.elf",
+    "url": "https://github.com/deox1111/ps5-library/releases/download/v0.7.12/ps5-library.elf",
+    "source": "https://github.com/deox1111/ps5-library/releases",
+    "source_direct": "https://github.com/deox1111/ps5-library/releases/download/v0.7.12/ps5-library.elf",
+    "description": "Gestor de biblioteca i descàrregues per a PS5 amb reintents de descàrrega resumibles.",
+    "last_update": "2026-10-07",
+    "version": "v0.7.12",
+    "category": "Utilidades y Herramientas",
+    "checksum": "87c015f2a71861509b305ff75d9c5cd310ee437849ecca0436c0cd83c76a99a1"
+  }
+]
