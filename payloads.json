@@ -34,5 +34,17 @@
     "version": "v0.7.12",
     "category": "Utilidades y Herramientas",
     "checksum": "87c015f2a71861509b305ff75d9c5cd310ee437849ecca0436c0cd83c76a99a1"
+  },
+  {
+    "name": "WebKit Autoloader Installer",
+    "filename": "webkit-autoloader-installer_v0.6.1.elf",
+    "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.6.1/webkit-autoloader-installer_v0.6.1.elf",
+    "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.6.1/webkit-autoloader-installer_v0.6.1.elf",
+    "description": "Instal·lador de l'autoloader WebKit: carrega payloads automàticament en exploits de navegador.",
+    "last_update": "2026-10-08",
+    "version": "v0.6.1",
+    "category": "Sistema",
+    "checksum": "f662c75a502e4f1bc41b055dcb490625f8222c499ce437dc80f439a3a279e93f"
   }
 ]
