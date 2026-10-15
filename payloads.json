@@ -1,6 +1,7 @@
 [
   {
     "name": "BlackBox",
+    "repo": "D3ATHLY/blackbox",
     "filename": "blackbox.elf",
     "url": "https://github.com/D3ATHLY/blackbox/releases/download/1.0.9/blackbox.elf",
     "source": "https://github.com/D3ATHLY/blackbox/releases",
@@ -13,6 +14,7 @@
   },
   {
     "name": "Orbit Store",
+    "repo": "saawant12/orbit-store-ps5",
     "filename": "orbit_store.elf",
     "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.3.5/orbit_store.elf",
     "source": "https://github.com/saawant12/orbit-store-ps5/releases",
@@ -25,19 +27,22 @@
   },
   {
     "name": "PS5 Library",
+    "repo": "deox1111/ps5-library",
     "filename": "ps5-library.elf",
-    "url": "https://github.com/deox1111/ps5-library/releases/download/v0.7.12/ps5-library.elf",
+    "url": "https://github.com/deox1111/ps5-library/releases/download/v0.7.29/ps5-library.elf",
     "source": "https://github.com/deox1111/ps5-library/releases",
-    "source_direct": "https://github.com/deox1111/ps5-library/releases/download/v0.7.12/ps5-library.elf",
+    "source_direct": "https://github.com/deox1111/ps5-library/releases/download/v0.7.29/ps5-library.elf",
     "description": "Gestor de biblioteca i descàrregues per a PS5 amb reintents de descàrrega resumibles.",
-    "last_update": "2026-10-07",
-    "version": "v0.7.12",
+    "last_update": "2026-10-15",
+    "version": "v0.7.29",
     "category": "Utilidades y Herramientas",
-    "checksum": "87c015f2a71861509b305ff75d9c5cd310ee437849ecca0436c0cd83c76a99a1"
+    "checksum": "2c3d042254bf0a578d97375f90b61b508549c1472bdef11c1ce0c04a8cb40003"
   },
   {
     "name": "WebKit Autoloader Installer",
-    "filename": "webkit-autoloader-installer_v0.6.1.elf",
+    "repo": "itsPLK/ps5-webkit-autoloader",
+    "filename": "webkit-autoloader-installer.elf",
+    "asset_pattern": "webkit-autoloader-installer_.*\\.elf$",
     "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.6.1/webkit-autoloader-installer_v0.6.1.elf",
     "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
     "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.6.1/webkit-autoloader-installer_v0.6.1.elf",
@@ -49,14 +54,15 @@
   },
   {
     "name": "Pegasus DL",
+    "repo": "pegasus-ps5/pegasus-dl",
     "filename": "pegasus_dl.elf",
-    "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.10.1/pegasus_dl.elf",
+    "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.11.0/pegasus_dl.elf",
     "source": "https://github.com/pegasus-ps5/pegasus-dl/releases",
-    "source_direct": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.10.1/pegasus_dl.elf",
+    "source_direct": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.11.0/pegasus_dl.elf",
     "description": "Descàrrega directa de paquets des de la PS5.",
-    "last_update": "2026-09-30",
-    "version": "v1.10.1",
+    "last_update": "2026-10-09",
+    "version": "v1.11.0",
     "category": "Utilidades y Herramientas",
-    "checksum": "b24fdc62fc6cad14684b214a9c5be6c1221585afbf9493e387ab90f9dee21138"
+    "checksum": "32b69c2089bb545abfabd04d5827444698f9c4f1bc4915d72247cb781e8c23d9"
   }
 ]
