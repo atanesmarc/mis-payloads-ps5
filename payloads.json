@@ -14,14 +14,14 @@
   {
     "name": "Orbit Store",
     "filename": "orbit_store.elf",
-    "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v0.9.0/orbit_store.elf",
+    "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.3.5/orbit_store.elf",
     "source": "https://github.com/saawant12/orbit-store-ps5/releases",
-    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v0.9.0/orbit_store.elf",
+    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.3.5/orbit_store.elf",
     "description": "Catàleg i gestor de descàrregues de jocs per a PS5 (705 jocs, suport FPKG i exFAT).",
-    "last_update": "2026-10-07",
-    "version": "v0.9.0",
+    "last_update": "2026-10-14",
+    "version": "v1.3.5",
     "category": "Utilidades y Herramientas",
-    "checksum": "aeef769d81507157837a017886a72c169ee7acb472e7c029a1d5e830735762df"
+    "checksum": "561a8e8015d9564d44e32b58a84e1294ea7043e96146110801a9f62ad99ac93b"
   },
   {
     "name": "PS5 Library",
