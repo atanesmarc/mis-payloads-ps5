@@ -2,14 +2,14 @@
   {
     "name": "BlackBox",
     "filename": "blackbox.elf",
-    "url": "https://github.com/D3ATHLY/blackbox/releases/download/v1.0.8/blackbox.elf",
+    "url": "https://github.com/D3ATHLY/blackbox/releases/download/1.0.9/blackbox.elf",
     "source": "https://github.com/D3ATHLY/blackbox/releases",
-    "source_direct": "https://github.com/D3ATHLY/blackbox/releases/download/v1.0.8/blackbox.elf",
+    "source_direct": "https://github.com/D3ATHLY/blackbox/releases/download/1.0.9/blackbox.elf",
     "description": "Homebrew Store amb gestor de descàrregues integrat per a PS5 jailbroken.",
-    "last_update": "2026-10-09",
-    "version": "v1.0.8",
+    "last_update": "2026-10-14",
+    "version": "v1.0.9",
     "category": "Utilidades y Herramientas",
-    "checksum": "b78ad32a58aa219c089fb2d809dbdfe84041ae88f7a2890e589ee003ea8d908b"
+    "checksum": "10b2ea3370a5ef3e0f28e6ca0719121670052250ccf561e3cab19d68b4a8d940"
   },
   {
     "name": "Orbit Store",
