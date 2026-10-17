@@ -68,29 +68,29 @@
   {
     "name": "PS5Upload",
     "repo": "phantomptr/ps5upload",
-    "filename": "ps5upload-7.0.28.elf",
+    "filename": "ps5upload-7.0.34.elf",
     "asset_pattern": "^ps5upload-[0-9.]+\\.elf$",
-    "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.28/ps5upload-7.0.28.elf",
+    "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.34/ps5upload-7.0.34.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.28/ps5upload-7.0.28.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.34/ps5upload-7.0.34.elf",
     "description": "Envia jocs, apps i homebrew a una PS5 jailbroken i gestiona la consola des del PC, mòbil o navegador.",
-    "last_update": "2026-10-16",
-    "version": "v7.0.28",
+    "last_update": "2026-10-17",
+    "version": "v7.0.34",
     "category": "Utilidades y Herramientas",
-    "checksum": "ab374bd0d5525f588417de53bcab716b5dc07d016c12e024e2cbc239c8255779"
+    "checksum": "f6a09ed9f92ea230490e2bc3ad912c4e882882839a25a184bb6daddabc0904a7"
   },
   {
     "name": "PatchDL",
     "repo": "knutwurst/ps5-patchdl",
-    "filename": "patchdl_0.2.0.elf",
+    "filename": "patchdl_0.2.1.elf",
     "asset_pattern": "^patchdl_[0-9.]+\\.elf$",
-    "url": "https://github.com/knutwurst/ps5-patchdl/releases/download/v0.2.0/patchdl_0.2.0.elf",
+    "url": "https://github.com/knutwurst/ps5-patchdl/releases/download/v0.2.1/patchdl_0.2.1.elf",
     "source": "https://github.com/knutwurst/ps5-patchdl/releases",
-    "source_direct": "https://github.com/knutwurst/ps5-patchdl/releases/download/v0.2.0/patchdl_0.2.0.elf",
+    "source_direct": "https://github.com/knutwurst/ps5-patchdl/releases/download/v0.2.1/patchdl_0.2.1.elf",
     "description": "Actualitzacions oficials de jocs PS5/PS4 des de qualsevol navegador, amb descàrrega paral·lela i resumible.",
-    "last_update": "2026-10-16",
-    "version": "v0.2.0",
+    "last_update": "2026-10-17",
+    "version": "v0.2.1",
     "category": "Utilidades y Herramientas",
-    "checksum": "639b483290b67821bcd2471138801e93216883aa583dd1c545736f8b61e14215"
+    "checksum": "5458739714d93ad807f3720ff3a2107687bf18be6e238c3f531a93f55d3467b7"
   }
 ]
