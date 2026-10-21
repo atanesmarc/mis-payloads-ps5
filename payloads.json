@@ -3,14 +3,14 @@
     "name": "BlackBox",
     "repo": "D3ATHLY/blackbox",
     "filename": "blackbox.elf",
-    "url": "https://github.com/D3ATHLY/blackbox/releases/download/1.12.0/blackbox.elf",
+    "url": "https://github.com/D3ATHLY/blackbox/releases/download/1.12.3/blackbox.elf",
     "source": "https://github.com/D3ATHLY/blackbox/releases",
-    "source_direct": "https://github.com/D3ATHLY/blackbox/releases/download/1.12.0/blackbox.elf",
+    "source_direct": "https://github.com/D3ATHLY/blackbox/releases/download/1.12.3/blackbox.elf",
     "description": "Homebrew Store amb gestor de descàrregues integrat per a PS5 jailbroken.",
-    "last_update": "2026-10-18",
-    "version": "v1.12.0",
+    "last_update": "2026-10-21",
+    "version": "v1.12.3",
     "category": "Utilidades y Herramientas",
-    "checksum": "4dfc4d2cbced3a024e89ac1d485211360399559fe9864279405ee2329e9a9100"
+    "checksum": "67f87f5a2ab7454f7cf1d7968ddc6e2c33e35cb2aa36c2102a537f3bc5e2d799"
   },
   {
     "name": "Orbit Store",
@@ -68,16 +68,16 @@
   {
     "name": "PS5Upload",
     "repo": "phantomptr/ps5upload",
-    "filename": "ps5upload-7.1.9.elf",
+    "filename": "ps5upload-7.1.10.elf",
     "asset_pattern": "^ps5upload-[0-9.]+\\.elf$",
-    "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.9/ps5upload-7.1.9.elf",
+    "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.10/ps5upload-7.1.10.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.9/ps5upload-7.1.9.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.10/ps5upload-7.1.10.elf",
     "description": "Envia jocs, apps i homebrew a una PS5 jailbroken i gestiona la consola des del PC, mòbil o navegador.",
-    "last_update": "2026-10-19",
-    "version": "v7.1.9",
+    "last_update": "2026-10-20",
+    "version": "v7.1.10",
     "category": "Utilidades y Herramientas",
-    "checksum": "a9674bd22737688783c1857817d032ddf2fd5ca4e750eea17175428556271141"
+    "checksum": "0025ee8d5ac9b660e8bc0ee98e42675ddd69b39c58ce71ff5ac0fb97de1a6040"
   },
   {
     "name": "PatchDL",
