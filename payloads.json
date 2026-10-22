@@ -3,14 +3,14 @@
     "name": "BlackBox",
     "repo": "D3ATHLY/blackbox",
     "filename": "blackbox.elf",
-    "url": "https://github.com/D3ATHLY/blackbox/releases/download/1.12.3/blackbox.elf",
+    "url": "https://github.com/D3ATHLY/blackbox/releases/download/1.12.4/blackbox.elf",
     "source": "https://github.com/D3ATHLY/blackbox/releases",
-    "source_direct": "https://github.com/D3ATHLY/blackbox/releases/download/1.12.3/blackbox.elf",
+    "source_direct": "https://github.com/D3ATHLY/blackbox/releases/download/1.12.4/blackbox.elf",
     "description": "Homebrew Store amb gestor de descàrregues integrat per a PS5 jailbroken.",
-    "last_update": "2026-10-21",
-    "version": "v1.12.3",
+    "last_update": "2026-10-22",
+    "version": "v1.12.4",
     "category": "Utilidades y Herramientas",
-    "checksum": "67f87f5a2ab7454f7cf1d7968ddc6e2c33e35cb2aa36c2102a537f3bc5e2d799"
+    "checksum": "8c76923f233a66ce53fe774bd2e80d184e07408f9f1e1edcf917f5858e4c758e"
   },
   {
     "name": "Orbit Store",
@@ -68,30 +68,30 @@
   {
     "name": "PS5Upload",
     "repo": "phantomptr/ps5upload",
-    "filename": "ps5upload-7.1.10.elf",
+    "filename": "ps5upload-7.1.16.elf",
     "asset_pattern": "^ps5upload-[0-9.]+\\.elf$",
-    "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.10/ps5upload-7.1.10.elf",
+    "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.16/ps5upload-7.1.16.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.10/ps5upload-7.1.10.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.16/ps5upload-7.1.16.elf",
     "description": "Envia jocs, apps i homebrew a una PS5 jailbroken i gestiona la consola des del PC, mòbil o navegador.",
-    "last_update": "2026-10-20",
-    "version": "v7.1.10",
+    "last_update": "2026-10-22",
+    "version": "v7.1.16",
     "category": "Utilidades y Herramientas",
-    "checksum": "0025ee8d5ac9b660e8bc0ee98e42675ddd69b39c58ce71ff5ac0fb97de1a6040"
+    "checksum": "df095f4492602e5824297fb2cb45802ca4d415006b2ce8222b9940cb942bd880"
   },
   {
     "name": "PatchDL",
     "repo": "knutwurst/ps5-patchdl",
-    "filename": "patchdl_0.3.3.elf",
+    "filename": "patchdl_0.3.4.elf",
     "asset_pattern": "^patchdl_[0-9.]+\\.elf$",
-    "url": "https://github.com/knutwurst/ps5-patchdl/releases/download/v0.3.3/patchdl_0.3.3.elf",
+    "url": "https://github.com/knutwurst/ps5-patchdl/releases/download/v0.3.4/patchdl_0.3.4.elf",
     "source": "https://github.com/knutwurst/ps5-patchdl/releases",
-    "source_direct": "https://github.com/knutwurst/ps5-patchdl/releases/download/v0.3.3/patchdl_0.3.3.elf",
+    "source_direct": "https://github.com/knutwurst/ps5-patchdl/releases/download/v0.3.4/patchdl_0.3.4.elf",
     "description": "Actualitzacions oficials de jocs PS5/PS4 des de qualsevol navegador, amb descàrrega paral·lela i resumible.",
-    "last_update": "2026-10-20",
-    "version": "v0.3.3",
+    "last_update": "2026-10-21",
+    "version": "v0.3.4",
     "category": "Utilidades y Herramientas",
-    "checksum": "6aac67ee3e457633fe1f4f2ae17ce3f650a36b6b95c7c15cbeeaaf8de75d11ef"
+    "checksum": "752a344716e855de5265d1fa4352490ea21203b427d76ac33745174b1719b773"
   },
   {
     "name": "BFpilot",
