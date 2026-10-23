@@ -16,27 +16,27 @@
     "name": "Orbit Store",
     "repo": "saawant12/orbit-store-ps5",
     "filename": "orbit_store.elf",
-    "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.3.5/orbit_store.elf",
+    "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.4.0/orbit_store.elf",
     "source": "https://github.com/saawant12/orbit-store-ps5/releases",
-    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.3.5/orbit_store.elf",
+    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.4.0/orbit_store.elf",
     "description": "Catàleg i gestor de descàrregues de jocs per a PS5 (705 jocs, suport FPKG i exFAT).",
-    "last_update": "2026-10-14",
-    "version": "v1.3.5",
+    "last_update": "2026-10-22",
+    "version": "v1.4.0",
     "category": "Utilidades y Herramientas",
-    "checksum": "561a8e8015d9564d44e32b58a84e1294ea7043e96146110801a9f62ad99ac93b"
+    "checksum": "e43c6272b3519fc2ec8b9373a484f2c2adb9669d7652567661149da741ab6d94"
   },
   {
     "name": "PS5 Library",
     "repo": "deox1111/ps5-library",
     "filename": "ps5-library.elf",
-    "url": "https://github.com/deox1111/ps5-library/releases/download/v0.7.37/ps5-library.elf",
+    "url": "https://github.com/deox1111/ps5-library/releases/download/v0.7.38/ps5-library.elf",
     "source": "https://github.com/deox1111/ps5-library/releases",
-    "source_direct": "https://github.com/deox1111/ps5-library/releases/download/v0.7.37/ps5-library.elf",
+    "source_direct": "https://github.com/deox1111/ps5-library/releases/download/v0.7.38/ps5-library.elf",
     "description": "Gestor de biblioteca i descàrregues per a PS5 amb reintents de descàrrega resumibles.",
-    "last_update": "2026-10-19",
-    "version": "v0.7.37",
+    "last_update": "2026-10-23",
+    "version": "v0.7.38",
     "category": "Utilidades y Herramientas",
-    "checksum": "4fb8256ad4e88a6f03d04ff3042bc7e3a5cf0e807b9a0f96632ffc9d38d490f3"
+    "checksum": "efa72fbb34984961678cb88dc8336ffdb8308c7011d8d8fb0e00b1a57ace16f3"
   },
   {
     "name": "WebKit Autoloader Installer",
@@ -68,16 +68,16 @@
   {
     "name": "PS5Upload",
     "repo": "phantomptr/ps5upload",
-    "filename": "ps5upload-7.1.16.elf",
+    "filename": "ps5upload-7.1.18.elf",
     "asset_pattern": "^ps5upload-[0-9.]+\\.elf$",
-    "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.16/ps5upload-7.1.16.elf",
+    "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.18/ps5upload-7.1.18.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.16/ps5upload-7.1.16.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.18/ps5upload-7.1.18.elf",
     "description": "Envia jocs, apps i homebrew a una PS5 jailbroken i gestiona la consola des del PC, mòbil o navegador.",
     "last_update": "2026-10-22",
-    "version": "v7.1.16",
+    "version": "v7.1.18",
     "category": "Utilidades y Herramientas",
-    "checksum": "df095f4492602e5824297fb2cb45802ca4d415006b2ce8222b9940cb942bd880"
+    "checksum": "360529ccbd9f00b9341f8ca72ed15851e3324ff69341304b7e93e12977aa7470"
   },
   {
     "name": "PatchDL",
