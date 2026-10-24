@@ -3,14 +3,14 @@
     "name": "BlackBox",
     "repo": "D3ATHLY/blackbox",
     "filename": "blackbox.elf",
-    "url": "https://github.com/D3ATHLY/blackbox/releases/download/1.12.4/blackbox.elf",
+    "url": "https://github.com/D3ATHLY/blackbox/releases/download/1.12.5/blackbox.elf",
     "source": "https://github.com/D3ATHLY/blackbox/releases",
-    "source_direct": "https://github.com/D3ATHLY/blackbox/releases/download/1.12.4/blackbox.elf",
+    "source_direct": "https://github.com/D3ATHLY/blackbox/releases/download/1.12.5/blackbox.elf",
     "description": "Homebrew Store amb gestor de descàrregues integrat per a PS5 jailbroken.",
-    "last_update": "2026-10-22",
-    "version": "v1.12.4",
+    "last_update": "2026-10-23",
+    "version": "v1.12.5",
     "category": "Utilidades y Herramientas",
-    "checksum": "8c76923f233a66ce53fe774bd2e80d184e07408f9f1e1edcf917f5858e4c758e"
+    "checksum": "c99c154b0b141e9a845f3029f7e905644958104ff3ed93911c38a458344f3e3f"
   },
   {
     "name": "Orbit Store",
@@ -68,16 +68,16 @@
   {
     "name": "PS5Upload",
     "repo": "phantomptr/ps5upload",
-    "filename": "ps5upload-7.1.18.elf",
+    "filename": "ps5upload-7.3.0.elf",
     "asset_pattern": "^ps5upload-[0-9.]+\\.elf$",
-    "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.18/ps5upload-7.1.18.elf",
+    "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.3.0/ps5upload-7.3.0.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.18/ps5upload-7.1.18.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.3.0/ps5upload-7.3.0.elf",
     "description": "Envia jocs, apps i homebrew a una PS5 jailbroken i gestiona la consola des del PC, mòbil o navegador.",
-    "last_update": "2026-10-22",
-    "version": "v7.1.18",
+    "last_update": "2026-10-24",
+    "version": "v7.3.0",
     "category": "Utilidades y Herramientas",
-    "checksum": "360529ccbd9f00b9341f8ca72ed15851e3324ff69341304b7e93e12977aa7470"
+    "checksum": "ded4faa584fa2ac76d34210b7df01cee1359c47eeb0bae5c6f8d7c03a3e1a3cd"
   },
   {
     "name": "PatchDL",
@@ -97,13 +97,13 @@
     "name": "BFpilot",
     "repo": "ItsBlurf/BFpilot",
     "filename": "bfpilot.elf",
-    "url": "https://github.com/ItsBlurf/BFpilot/releases/download/v0.4.4/bfpilot.elf",
+    "url": "https://github.com/ItsBlurf/BFpilot/releases/download/v0.5.0/bfpilot.elf",
     "source": "https://github.com/ItsBlurf/BFpilot/releases",
-    "source_direct": "https://github.com/ItsBlurf/BFpilot/releases/download/v0.4.4/bfpilot.elf",
+    "source_direct": "https://github.com/ItsBlurf/BFpilot/releases/download/v0.5.0/bfpilot.elf",
     "description": "Gestor de fitxers lleuger per PS5, basat en navegador.",
-    "last_update": "2026-08-11",
-    "version": "v0.4.4",
+    "last_update": "2026-10-24",
+    "version": "v0.5.0",
     "category": "Utilidades y Herramientas",
-    "checksum": "5a8237630260026ad054d71fbbe661e433ac9ffa2cb4eea2785769c1eb7ee1c1"
+    "checksum": "b9226a4321de09d434579d651b9fdbb5ce0ccbe5c65f86bb2e951c324da4df9f"
   }
 ]
