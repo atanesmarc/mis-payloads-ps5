@@ -105,5 +105,18 @@
     "version": "v0.4.4",
     "category": "Utilidades y Herramientas",
     "checksum": "5a8237630260026ad054d71fbbe661e433ac9ffa2cb4eea2785769c1eb7ee1c1"
+  },
+  {
+    "name": "ShadowMount+",
+    "repo": "drakmor/ShadowMountPlus",
+    "filename": "shadowmountplus.elf",
+    "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta7/shadowmountplus.elf",
+    "source": "https://github.com/drakmor/ShadowMountPlus/releases",
+    "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta7/shadowmountplus.elf",
+    "description": "Munta imatges de jocs (.exfat, .ffpfsc) i carpetes des de l'intern, M.2 o USB, amb interfície web per moure i copiar jocs.",
+    "last_update": "2026-10-21",
+    "version": "v1.7beta7",
+    "category": "Utilidades y Herramientas",
+    "checksum": "a8f9d7f76e8749912508ade0cd5c78076b5bbf1271813c78c80c3d3d9d4777ee"
   }
 ]
