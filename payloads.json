@@ -118,5 +118,18 @@
     "version": "v1.7beta7",
     "category": "Utilidades y Herramientas",
     "checksum": "a8f9d7f76e8749912508ade0cd5c78076b5bbf1271813c78c80c3d3d9d4777ee"
+  },
+  {
+    "name": "fps60",
+    "repo": "eladharels/ps5-60FPS",
+    "filename": "fps60.elf",
+    "url": "https://github.com/eladharels/ps5-60FPS/releases/download/v1.0.0/fps60.elf",
+    "source": "https://github.com/eladharels/ps5-60FPS/releases",
+    "source_direct": "https://github.com/eladharels/ps5-60FPS/releases/download/v1.0.0/fps60.elf",
+    "description": "Activa 60 FPS en jocs de PS4 i PS5 amb un interruptor per joc, des del navegador de la consola.",
+    "last_update": "2026-10-16",
+    "version": "v1.0.0",
+    "category": "Utilidades y Herramientas",
+    "checksum": "5331ebf1b69cd272a0491f899b14ca5d59240adee2e69078631473070ddeca9b"
   }
 ]
