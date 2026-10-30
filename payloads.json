@@ -16,14 +16,14 @@
     "name": "Orbit Store",
     "repo": "saawant12/orbit-store-ps5",
     "filename": "orbit_store.elf",
-    "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.7.0/orbit_store.elf",
+    "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.7.5/orbit_store.elf",
     "source": "https://github.com/saawant12/orbit-store-ps5/releases",
-    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.7.0/orbit_store.elf",
+    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.7.5/orbit_store.elf",
     "description": "Catàleg i gestor de descàrregues de jocs per a PS5 (705 jocs, suport FPKG i exFAT).",
-    "last_update": "2026-10-26",
-    "version": "v1.7.0",
+    "last_update": "2026-10-29",
+    "version": "v1.7.5",
     "category": "Utilidades y Herramientas",
-    "checksum": "ca46295969f4711096c036af5cad9925e96b24fcefc5211ed07dbe768f6f809b"
+    "checksum": "c5c601dd349b52c650ee4147fc89d9e2ab9a7d1df35e6e6039eee1175194e832"
   },
   {
     "name": "PS5 Library",
@@ -68,16 +68,16 @@
   {
     "name": "PS5Upload",
     "repo": "phantomptr/ps5upload",
-    "filename": "ps5upload-9.0.1.elf",
+    "filename": "ps5upload-9.5.1.elf",
     "asset_pattern": "^ps5upload-[0-9.]+\\.elf$",
-    "url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/ps5upload-9.0.1.elf",
+    "url": "https://github.com/phantomptr/ps5upload/releases/download/v9.5.1/ps5upload-9.5.1.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/ps5upload-9.0.1.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v9.5.1/ps5upload-9.5.1.elf",
     "description": "Envia jocs, apps i homebrew a una PS5 jailbroken i gestiona la consola des del PC, mòbil o navegador.",
-    "last_update": "2026-10-29",
-    "version": "v9.0.1",
+    "last_update": "2026-10-30",
+    "version": "v9.5.1",
     "category": "Utilidades y Herramientas",
-    "checksum": "36317d7d360faad3aeac6127199e7e61514dc2c2cc5f83c10835682951806d9f"
+    "checksum": "6c113d167d7fe4c4f3e036e8556d044ab3b04e7f45fe53778f8dbea158ede8d7"
   },
   {
     "name": "PatchDL",
@@ -110,14 +110,14 @@
     "name": "ShadowMount+",
     "repo": "drakmor/ShadowMountPlus",
     "filename": "shadowmountplus.elf",
-    "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta10/shadowmountplus.elf",
+    "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta11/shadowmountplus.elf",
     "source": "https://github.com/drakmor/ShadowMountPlus/releases",
-    "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta10/shadowmountplus.elf",
+    "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta11/shadowmountplus.elf",
     "description": "Munta imatges de jocs (.exfat, .ffpfsc) i carpetes des de l'intern, M.2 o USB, amb interfície web per moure i copiar jocs.",
-    "last_update": "2026-10-28",
-    "version": "v1.7beta10",
+    "last_update": "2026-10-29",
+    "version": "v1.7beta11",
     "category": "Utilidades y Herramientas",
-    "checksum": "8c6798232ae2a8fbcd209ab97fc4f8d4d47cf23b7eecfaa6349c0bfeb8e4a3d3"
+    "checksum": "08c843018750bef013fe3a4de5f80c5c9738c6c2dafa2406e6b6e68d7585f3da"
   },
   {
     "name": "fps60",
