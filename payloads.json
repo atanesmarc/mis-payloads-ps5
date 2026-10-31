@@ -16,14 +16,14 @@
     "name": "Orbit Store",
     "repo": "saawant12/orbit-store-ps5",
     "filename": "orbit_store.elf",
-    "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.7.5/orbit_store.elf",
+    "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.1/orbit_store.elf",
     "source": "https://github.com/saawant12/orbit-store-ps5/releases",
-    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.7.5/orbit_store.elf",
+    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.1/orbit_store.elf",
     "description": "Catàleg i gestor de descàrregues de jocs per a PS5 (705 jocs, suport FPKG i exFAT).",
-    "last_update": "2026-10-29",
-    "version": "v1.7.5",
+    "last_update": "2026-10-30",
+    "version": "v1.8.1",
     "category": "Utilidades y Herramientas",
-    "checksum": "c5c601dd349b52c650ee4147fc89d9e2ab9a7d1df35e6e6039eee1175194e832"
+    "checksum": "a9fe33c3b0338af074edb4f7c68bb3806a84efba718e3897f94eba9dc720f914"
   },
   {
     "name": "PS5 Library",
@@ -68,16 +68,16 @@
   {
     "name": "PS5Upload",
     "repo": "phantomptr/ps5upload",
-    "filename": "ps5upload-9.5.1.elf",
+    "filename": "ps5upload-10.0.2.elf",
     "asset_pattern": "^ps5upload-[0-9.]+\\.elf$",
-    "url": "https://github.com/phantomptr/ps5upload/releases/download/v9.5.1/ps5upload-9.5.1.elf",
+    "url": "https://github.com/phantomptr/ps5upload/releases/download/v10.0.2/ps5upload-10.0.2.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v9.5.1/ps5upload-9.5.1.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v10.0.2/ps5upload-10.0.2.elf",
     "description": "Envia jocs, apps i homebrew a una PS5 jailbroken i gestiona la consola des del PC, mòbil o navegador.",
-    "last_update": "2026-10-30",
-    "version": "v9.5.1",
+    "last_update": "2026-10-31",
+    "version": "v10.0.2",
     "category": "Utilidades y Herramientas",
-    "checksum": "6c113d167d7fe4c4f3e036e8556d044ab3b04e7f45fe53778f8dbea158ede8d7"
+    "checksum": "53ad7fe7b446709ccc36bdd9a7109a0f62a38076bb3b8cb9ba5c3c7cce5dc510"
   },
   {
     "name": "PatchDL",
