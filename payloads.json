@@ -16,14 +16,14 @@
     "name": "Orbit Store",
     "repo": "saawant12/orbit-store-ps5",
     "filename": "orbit_store.elf",
-    "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.2/orbit_store.elf",
+    "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.3/orbit_store.elf",
     "source": "https://github.com/saawant12/orbit-store-ps5/releases",
-    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.2/orbit_store.elf",
+    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.3/orbit_store.elf",
     "description": "Catàleg i gestor de descàrregues de jocs per a PS5 (705 jocs, suport FPKG i exFAT).",
-    "last_update": "2026-10-31",
-    "version": "v1.8.2",
+    "last_update": "2026-11-01",
+    "version": "v1.8.3",
     "category": "Utilidades y Herramientas",
-    "checksum": "134cedb380b39f5a010beb1a0834cebb2192ea0e5749c13675b3a64b6dfd3996"
+    "checksum": "59e216d7d5b163a14c8f7ac8fce4962b0af04541a1724236e0efb216a882e124"
   },
   {
     "name": "PS5 Library",
@@ -68,16 +68,16 @@
   {
     "name": "PS5Upload",
     "repo": "phantomptr/ps5upload",
-    "filename": "ps5upload-10.4.0.elf",
+    "filename": "ps5upload-10.7.2.elf",
     "asset_pattern": "^ps5upload-[0-9.]+\\.elf$",
-    "url": "https://github.com/phantomptr/ps5upload/releases/download/v10.4.0/ps5upload-10.4.0.elf",
+    "url": "https://github.com/phantomptr/ps5upload/releases/download/v10.7.2/ps5upload-10.7.2.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v10.4.0/ps5upload-10.4.0.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v10.7.2/ps5upload-10.7.2.elf",
     "description": "Envia jocs, apps i homebrew a una PS5 jailbroken i gestiona la consola des del PC, mòbil o navegador.",
-    "last_update": "2026-11-01",
-    "version": "v10.4.0",
+    "last_update": "2026-11-02",
+    "version": "v10.7.2",
     "category": "Utilidades y Herramientas",
-    "checksum": "67b26d52fcb3cda8847cf7bf4893076b23f0d8b3f41765e3be64549c11336aae"
+    "checksum": "afb8b1965796795f308dcc8e27be1a2e80feeaddbb85e3c94823ba46dabeb0d2"
   },
   {
     "name": "PatchDL",
