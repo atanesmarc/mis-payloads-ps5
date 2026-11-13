@@ -133,7 +133,7 @@
     "checksum": "5331ebf1b69cd272a0491f899b14ca5d59240adee2e69078631473070ddeca9b"
   },
   {
-    "name": "payload_8a41ed",
+    "name": "npfsng-ps5",
     "repo": "atanesmarc/mis-payloads-ps5",
     "filename": "npfsng-ps5.elf",
     "url": "https://github.com/atanesmarc/mis-payloads-ps5/releases/download/v1.0.0-npfsng-ps5/npfsng-ps5.elf",
