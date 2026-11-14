@@ -133,6 +133,19 @@
     "checksum": "5331ebf1b69cd272a0491f899b14ca5d59240adee2e69078631473070ddeca9b"
   },
   {
+    "name": "payload_8a41ed",
+    "repo": "atanesmarc/mis-payloads-ps5",
+    "filename": "payload_8a41ed.elf",
+    "url": "https://github.com/atanesmarc/mis-payloads-ps5/releases/download/v1.0.0-payload_8a41ed/payload_8a41ed.elf",
+    "source": "https://github.com/atanesmarc/mis-payloads-ps5/releases",
+    "source_direct": "https://github.com/atanesmarc/mis-payloads-ps5/releases/download/v1.0.0-payload_8a41ed/payload_8a41ed.elf",
+    "description": "Payload ELF pujat manualment.",
+    "last_update": "2026-11-13",
+    "version": "v1.0.0",
+    "category": "Sistema",
+    "checksum": "3c2fb5ee26da1234f013ec24c0bfe106eae13c2c647139ed7c86818b8048acac"
+  },
+  {
     "name": "npfsng-ps5",
     "repo": "atanesmarc/mis-payloads-ps5",
     "filename": "npfsng-ps5.elf",
