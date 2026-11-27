@@ -157,5 +157,18 @@
     "version": "v1.0.0",
     "category": "Sistema",
     "checksum": "6a38ee251b2252ae6752bf23f4f22d970d449731cfe69c1f513f18670efd5314"
+  },
+  {
+    "name": "kstuff",
+    "repo": "atanesmarc/mis-payloads-ps5",
+    "filename": "kstuff-1.15-dr-test3-stable.elf",
+    "url": "https://github.com/atanesmarc/mis-payloads-ps5/releases/download/v1.15-dr-test3-kstuff/kstuff-1.15-dr-test3-stable.elf",
+    "source": "https://github.com/atanesmarc/mis-payloads-ps5/releases",
+    "source_direct": "https://github.com/atanesmarc/mis-payloads-ps5/releases/download/v1.15-dr-test3-kstuff/kstuff-1.15-dr-test3-stable.elf",
+    "description": "Payload ELF pujat manualment.",
+    "last_update": "2026-11-27",
+    "version": "1.15-dr-test3-stable",
+    "category": "Sistema",
+    "checksum": "6c3758c2cc84e3aa7e3c41952371fd04e641647d46d03f8d4bea2ab77c16ecf5"
   }
 ]
